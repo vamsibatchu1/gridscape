@@ -1,0 +1,5 @@
+{
+  "name": "Gridscape",
+  "description": "A concept mapping experiment using Gemini 2.5 Flash and Imagen 4, built in Google AI Studio. Change the title to set the context. Define any two conceptual axes to create your own 2x2 grid (Gemini suggests the opposites for you). Click anywhere to generate and visualize a concept at the intersection of your axes. Add your own concept to the grid and see where Gemini places it.",
+  "requestFramePermissions": []
+}
